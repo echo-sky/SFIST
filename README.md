@@ -1,6 +1,6 @@
 # SFIST
 
-A dataseet for IR ship tracking.
+A dataset for IR ship tracking.
 
 The dataset is uploaded on cowtransfer. The link is listed below.
 
